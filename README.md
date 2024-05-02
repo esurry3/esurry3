@@ -2,9 +2,9 @@
 - 👀 I’m interested in cats
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on git
-- 📫 How to reach me carrier pigeon
+- 📫 How to reach me: carrier pigeon
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I crochet
+- ⚡ Fun fact: I like to crochet and listen to music 
 
 <!---
 esurry3/esurry3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
